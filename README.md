@@ -1,4 +1,4 @@
-**MACHINE LEARNING PROJECT ON IRIS FLOWER PREDICTION**
+#**MACHINE LEARNING PROJECT ON IRIS FLOWER PREDICTION - MAJOR PROJECT**
 
 <br />***DESCRIPTION***
 <br />A machine learning model to predict the species of the Iris flower.
